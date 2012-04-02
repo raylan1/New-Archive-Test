@@ -1,2 +1,2 @@
 Test revision four
-converted to plain text
+01/04/2012 converted to plain text
